@@ -43,3 +43,4 @@ Hacer
 	Si no Muestra: "Ingrese un número válido por favor.";
             }
 Mientras cardNumber sea distinto a valor vacio;
+![Diagrama de flujo isValidCard](http://imageshack.com/a/img923/4944/lK5j7v.jpg)
