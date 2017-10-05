@@ -46,7 +46,7 @@ do {
       } else {
               alert("Ingrese un número válido por favor.");
             }
-  } while (cardNumber == "");
+  } while (cardNumber == "" || /^[0-9]+$/.test(cardNumber) === false);
 }
 
 isValidCard ();
